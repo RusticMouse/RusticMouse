@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RusticMouse
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Java
 - 📫 You can reach me Discord: Aaaaron#8477
 
 <!---
